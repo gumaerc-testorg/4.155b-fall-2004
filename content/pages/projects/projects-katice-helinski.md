@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: a7cb15b8-20b6-5210-ebfa-747709cbb1e7
 title: 'Projects: Katice Helinski'
 uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 ---
 
 [Joe Dahmen]({{< baseurl >}}/pages/projects/projects-joe-dahmen) | Katice Helinski | [James Smith]({{< baseurl >}}/pages/projects/projects-james-smith)
-{{< image-gallery id="34d025b0-7565-7a67-7402-1b63bcc83d09_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/" >}}
+{{< image-gallery id="34d025b0-7565-7a67-7402-1b63bcc83d09_nanogallery2" baseUrl="/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/" >}}
 {{< image-gallery-item href="c0c6cb84105f997654ac089db4f757db_helinski1.jpg" data-ngdesc="An installation dealing with light as a material, and as a space-maker. Note the strings that tell the viewer how the sunlight moves in the space." text="An installation dealing with light as a material, and as a space-maker. Note the strings that tell the viewer how the sunlight moves in the space." >}}
 {{< image-gallery-item href="1c96e7ca8c9d32d20dfeccad0c01ecfb_helinski2.jpg" data-ngdesc="Material molded by space, and molding space simultaneously. This model plays with the conditions of molding and the nature of concrete." text="Material molded by space, and molding space simultaneously. This model plays with the conditions of molding and the nature of concrete." >}}
 {{< image-gallery-item href="3e1b84055fa0de3718d5e4e631460702_helinski3.jpg" data-ngdesc="The relationship of glass and concrete, and how the two materials can relate and coexist in collision. These models explore the limits of these materials nature." text="The relationship of glass and concrete, and how the two materials can relate and coexist in collision. These models explore the limits of these materials nature." >}}

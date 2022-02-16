@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: References
 uid: 5bb2b647-8ebf-bdc4-2c10-47bf093a3b4f
 ---

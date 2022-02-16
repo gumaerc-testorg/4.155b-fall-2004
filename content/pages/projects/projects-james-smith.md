@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: a7cb15b8-20b6-5210-ebfa-747709cbb1e7
 title: 'Projects: James Smith'
 uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
@@ -9,7 +13,7 @@ uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 [Joe Dahmen]({{< baseurl >}}/pages/projects/projects-joe-dahmen) | [Katice Helinski]({{< baseurl >}}/pages/projects/projects-katice-helinski) | James Smith
 
 "The cultural identity of MIT exists within its intricate network of corridors which extend 'infinitely' above and below ground throughout the campus. The proposed Student Center would introduce a spatial interruption along this corridor system. The design process began with a spatial exploration of the 'corridor', investigating the qualities that exist within it. Qualities of tension, compression and gravitation exist alongside the experiential movement found within the space of the corridor." ([PDF]({{< baseurl >}}/resources/jamessmith))
-{{< image-gallery id="2555c116-7306-3a1b-2e9f-193e8ce3e695_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/" >}}
+{{< image-gallery id="2555c116-7306-3a1b-2e9f-193e8ce3e695_nanogallery2" baseUrl="/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/" >}}
 {{< image-gallery-item href="d78bb759cad6a0a7a28671db3487d4cd_smith1.jpg" data-ngdesc="The installation: The endless and closed corridors of MIT are opened and the relation to the outside is exposed. The occupant is levitated toward the outside, out of these tubes." text="The installation: The endless and closed corridors of MIT are opened and the relation to the outside is exposed. The occupant is levitated toward the outside, out of these tubes." >}}
 {{< image-gallery-item href="291308127c2ee01013e77350285b3f4f_smith2.jpg" data-ngdesc="A detail model showing how a construction of mirrors could exist, redefining the angle of view and opening a space to the sky." text="A detail model showing how a construction of mirrors could exist, redefining the angle of view and opening a space to the sky." >}}
 {{< image-gallery-item href="a28b4f213f5f4d6346180818fbd77863_smith3.jpg" data-ngdesc="A movable map of the corridors of MIT and their relation. The malleability of this map allows different arrangements of space to be explored, to discover unknown places." text="A movable map of the corridors of MIT and their relation. The malleability of this map allows different arrangements of space to be explored, to discover unknown places." >}}

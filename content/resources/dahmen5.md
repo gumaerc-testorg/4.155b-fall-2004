@@ -4,7 +4,7 @@ description: A sculptural piece representing the relation between the built envi
   and artifical land. In the case of MIT's campus, the entire site is built on a decades
   old infill project, which reclaimed land from the Charles River. Those competing
   forces are studied here.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/98f5adae5bcd560a3bec99bddeb52ce1_dahmen5.jpg
+file: /media/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/98f5adae5bcd560a3bec99bddeb52ce1_dahmen5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A sculptural piece representing the relation between the built environment
@@ -13,6 +13,10 @@ image_metadata:
     competing forces are studied here.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: Sculptural piece, showing building versus infill.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Projects: Joe Dahmen'
+parent_type: CourseSection
 resourcetype: Image
 title: dahmen5.jpg
 uid: 98f5adae-5bcd-560a-3bec-99bddeb52ce1

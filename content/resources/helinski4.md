@@ -2,12 +2,16 @@
 content_type: resource
 description: A second look at the same model, showing the result of this material
   collision.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/bb950467aa2cd1de0183597418e743ec_helinski4.jpg
+file: /media/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/bb950467aa2cd1de0183597418e743ec_helinski4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A second look at the same model, showing the result of this material collision.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: A second look at the same model.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Projects: Katice Helinski'
+parent_type: CourseSection
 resourcetype: Image
 title: helinski4.jpg
 uid: bb950467-aa2c-d1de-0183-597418e743ec

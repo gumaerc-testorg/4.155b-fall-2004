@@ -3,7 +3,7 @@ content_type: resource
 description: An overhead view of the final model, showing the relation of the new
   to the old. The halls are like canals, intersecting here at the union of the old
   and the new.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/c88a7c6a0d16d2d17522f0c3a1ad35d7_smith8.jpg
+file: /media/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/c88a7c6a0d16d2d17522f0c3a1ad35d7_smith8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: An overhead view of the final model, showing the relation of the new to
@@ -11,6 +11,10 @@ image_metadata:
     and the new.
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: An overhead view of the final model.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Projects: James Smith'
+parent_type: CourseSection
 resourcetype: Image
 title: smith8.jpg
 uid: c88a7c6a-0d16-d2d1-7522-f0c3a1ad35d7
