@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Projects: James Smith'
 parent_type: CourseSection
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith6.jpg
 uid: 370cb094-1377-aa43-6b91-9feff125e02c

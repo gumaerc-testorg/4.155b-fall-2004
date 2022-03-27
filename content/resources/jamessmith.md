@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Projects: James Smith'
 parent_type: CourseSection
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Document
 title: jamessmith.pdf
 uid: 27281cf4-f63e-61d4-4e33-2cf28179872c

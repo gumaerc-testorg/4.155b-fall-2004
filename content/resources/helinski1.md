@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Projects: Katice Helinski'
 parent_type: CourseSection
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski1.jpg
 uid: c0c6cb84-105f-9976-54ac-089db4f757db

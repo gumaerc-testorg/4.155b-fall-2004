@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Projects: Joe Dahmen'
 parent_type: CourseSection
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen1.jpg
 uid: 35d7fbec-7ca9-9bb7-6da3-1bacab9881ac
