@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section offers the works discussed in class, fostering a discussion
+  on space versus object.
 learning_resource_types: []
 ocw_type: CourseSection
 title: References

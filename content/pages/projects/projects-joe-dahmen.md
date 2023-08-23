@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,9 +11,9 @@ title: 'Projects: Joe Dahmen'
 uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 ---
 
-Joe Dahmen | [Katice Helinski]({{< baseurl >}}/pages/projects/projects-katice-helinski) | [James Smith]({{< baseurl >}}/pages/projects/projects-james-smith)
+Joe Dahmen | {{% resource_link 34d025b0-7565-7a67-7402-1b63bcc83d09 "Katice Helinski" %}} | {{% resource_link 2555c116-7306-3a1b-2e9f-193e8ce3e695 "James Smith" %}}
 
-"To be a student is to be in a state of constant transition, with nearly all evidence of one's presence wiped away at graduation. Against this unforgiving institutional backdrop, the clandestine activities of the students taking place late at night form a history which only appears to those who know where to look. What I hoped to investigate in the project is what the transient and elusive might mean in architectural terms." ([PDF]({{< baseurl >}}/resources/joedahmen))
+"To be a student is to be in a state of constant transition, with nearly all evidence of one's presence wiped away at graduation. Against this unforgiving institutional backdrop, the clandestine activities of the students taking place late at night form a history which only appears to those who know where to look. What I hoped to investigate in the project is what the transient and elusive might mean in architectural terms." ({{% resource_link d4377b02-e334-f9a7-acaf-6573394bac3f "PDF" %}})
 {{< image-gallery id="b0fcaaec-8735-ce35-2e47-e97671ca040f_nanogallery2" baseUrl="/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/" >}}
 {{< image-gallery-item href="35d7fbec7ca99bb76da31bacab9881ac_dahmen1.jpg" data-ngdesc="A tectonic model, showing how friction and gravity can create balance and strength. Invisible forces are made visible." text="A tectonic model, showing how friction and gravity can create balance and strength. Invisible forces are made visible." >}}
 {{< image-gallery-item href="cf689a0814f1fa87699e46448fe484eb_dahmen2.jpg" data-ngdesc="A second tectonic model, again showing how strength exists in small forces. The large heavy piece is suspended and floats, through the work of the smaller lighter pieces." text="A second tectonic model, again showing how strength exists in small forces. The large heavy piece is suspended and floats, through the work of the smaller lighter pieces." >}}
