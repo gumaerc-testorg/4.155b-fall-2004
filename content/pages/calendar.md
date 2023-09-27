@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: bf286edc-89b9-7a87-68bb-826165b3fda6
 ---
 
-The calendar table shows the progress of the studio by week. For a more complete description of the process of the studio, see the [assignments]({{< baseurl >}}/pages/assignments) section.
+The calendar table shows the progress of the studio by week. For a more complete description of the process of the studio, see the {{% resource_link 57b7ab02-db91-26d6-6d5c-cc049ea154f7 "assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 'Projects: Katice Helinski'
 uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 ---
 
-[Joe Dahmen]({{< baseurl >}}/pages/projects/projects-joe-dahmen) | Katice Helinski | [James Smith]({{< baseurl >}}/pages/projects/projects-james-smith)
+{{% resource_link b0fcaaec-8735-ce35-2e47-e97671ca040f "Joe Dahmen" %}} | Katice Helinski | {{% resource_link 2555c116-7306-3a1b-2e9f-193e8ce3e695 "James Smith" %}}
 {{< image-gallery id="34d025b0-7565-7a67-7402-1b63bcc83d09_nanogallery2" baseUrl="/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/" >}}
 {{< image-gallery-item href="c0c6cb84105f997654ac089db4f757db_helinski1.jpg" data-ngdesc="An installation dealing with light as a material, and as a space-maker. Note the strings that tell the viewer how the sunlight moves in the space." text="An installation dealing with light as a material, and as a space-maker. Note the strings that tell the viewer how the sunlight moves in the space." >}}
 {{< image-gallery-item href="1c96e7ca8c9d32d20dfeccad0c01ecfb_helinski2.jpg" data-ngdesc="Material molded by space, and molding space simultaneously. This model plays with the conditions of molding and the nature of concrete." text="Material molded by space, and molding space simultaneously. This model plays with the conditions of molding and the nature of concrete." >}}

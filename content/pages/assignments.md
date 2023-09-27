@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: 57b7ab02-db91-26d6-6d5c-cc049ea154f7
 Description of the Process
 --------------------------
 
-The series of discrete assignments is outlined in the [calendar]({{< baseurl >}}/pages/calendar) section. This section goes into more detail regarding the architectural process that will be followed during the semester.
+The series of discrete assignments is outlined in the {{% resource_link bf286edc-89b9-7a87-68bb-826165b3fda6 "calendar" %}} section. This section goes into more detail regarding the architectural process that will be followed during the semester.
 
 Overview
 --------
