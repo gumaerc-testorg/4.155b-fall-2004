@@ -4,6 +4,7 @@ description: A second tectonic model, again showing how strength exists in small
   The large heavy piece is suspended and floats, through the work of the smaller lighter
   pieces.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/cf689a0814f1fa87699e46448fe484eb_dahmen2.jpg
+file_size: 37417
 file_type: image/jpeg
 image_metadata:
   caption: A second tectonic model, again showing how strength exists in small forces.

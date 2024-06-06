@@ -5,6 +5,7 @@ description: A sculptural piece representing the relation between the built envi
   old infill project, which reclaimed land from the Charles River. Those competing
   forces are studied here.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/98f5adae5bcd560a3bec99bddeb52ce1_dahmen5.jpg
+file_size: 106719
 file_type: image/jpeg
 image_metadata:
   caption: A sculptural piece representing the relation between the built environment
