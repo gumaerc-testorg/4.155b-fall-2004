@@ -3,6 +3,7 @@ content_type: resource
 description: The first pass at a final model, juxtaposing architectural masses against
   the forces of the site, and showing both.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/8b2d0cc8e2ae69c6092e24fbb750aa06_dahmen6.jpg
+file_size: 46464
 file_type: image/jpeg
 image_metadata:
   caption: The first pass at a final model, juxtaposing architectural masses against

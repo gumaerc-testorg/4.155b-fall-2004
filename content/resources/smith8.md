@@ -4,6 +4,7 @@ description: An overhead view of the final model, showing the relation of the ne
   to the old. The halls are like canals, intersecting here at the union of the old
   and the new.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/c88a7c6a0d16d2d17522f0c3a1ad35d7_smith8.jpg
+file_size: 43703
 file_type: image/jpeg
 image_metadata:
   caption: An overhead view of the final model, showing the relation of the new to
