@@ -4,6 +4,7 @@ description: The final model. The site exists on the edge of the campus, between
   highway and the river, in a space of transition. The nature of student life is transient,
   and the site plays on that.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/e212ec7b752ccf5566e5aa6c538e9c52_dahmen7.jpg
+file_size: 37299
 file_type: image/jpeg
 image_metadata:
   caption: The final model. The site exists on the edge of the campus, between the

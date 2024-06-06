@@ -2,6 +2,7 @@
 content_type: resource
 description: Project work done
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/d4377b02e334f9a7acaf6573394bac3f_joedahmen.pdf
+file_size: 154665
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

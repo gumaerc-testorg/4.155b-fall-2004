@@ -3,6 +3,7 @@ content_type: resource
 description: An early creation of space through the collision of materials. Concrete
   is treated both as a solid and a liquid, relative to the glass.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/24a10862e87c0a36c463744c970e5323_helinski6.jpg
+file_size: 41465
 file_type: image/jpeg
 image_metadata:
   caption: An early creation of space through the collision of materials. Concrete

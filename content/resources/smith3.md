@@ -4,6 +4,7 @@ description: A movable map of the corridors of MIT and their relation. The malle
   of this map allows different arrangements of space to be explored, to discover unknown
   places.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/a28b4f213f5f4d6346180818fbd77863_smith3.jpg
+file_size: 42094
 file_type: image/jpeg
 image_metadata:
   caption: A movable map of the corridors of MIT and their relation. The malleability

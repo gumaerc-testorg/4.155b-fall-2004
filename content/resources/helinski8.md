@@ -3,6 +3,7 @@ content_type: resource
 description: The final model, showing the many elements of the studio brought into
   one whole.
 file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/17c13d121ea27a2ba709004b9831026c_helinski8.jpg
+file_size: 44581
 file_type: image/jpeg
 image_metadata:
   caption: The final model, showing the many elements of the studio brought into one
