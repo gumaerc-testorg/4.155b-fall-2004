@@ -3,7 +3,7 @@ content_type: resource
 description: 'The final model: Corridors are suspended, floating one above the other,
   and some are truncated. Light permeates the entire design. The endless tubes are
   given an outlet and new life.'
-file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/370cb0941377aa436b919feff125e02c_smith6.jpg
+file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/370cb0941377aa436b919feff125e02c_smith6.jpg
 file_size: 41106
 file_type: image/jpeg
 image_metadata:

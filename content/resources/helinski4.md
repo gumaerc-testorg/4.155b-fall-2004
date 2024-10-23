@@ -2,7 +2,7 @@
 content_type: resource
 description: A second look at the same model, showing the result of this material
   collision.
-file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/bb950467aa2cd1de0183597418e743ec_helinski4.jpg
+file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/bb950467aa2cd1de0183597418e743ec_helinski4.jpg
 file_size: 39556
 file_type: image/jpeg
 image_metadata:
