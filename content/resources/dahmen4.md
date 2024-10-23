@@ -2,7 +2,7 @@
 content_type: resource
 description: A line drawing showing the many hidden forces and spaces within spaces
   present in any site. Inspired by the work of Fred Sandback.
-file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/bfd4e1c767a012dc3840ee3a8a3b5be0_dahmen4.jpg
+file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/bfd4e1c767a012dc3840ee3a8a3b5be0_dahmen4.jpg
 file_size: 75029
 file_type: image/jpeg
 image_metadata:
