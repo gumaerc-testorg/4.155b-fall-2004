@@ -3,7 +3,7 @@ content_type: resource
 description: 'The installation: The endless and closed corridors of MIT are opened
   and the relation to the outside is exposed. The occupant is levitated toward the
   outside, out of these "tubes".'
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/d78bb759cad6a0a7a28671db3487d4cd_smith1.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/d78bb759cad6a0a7a28671db3487d4cd_smith1.jpg
 file_size: 52398
 file_type: image/jpeg
 image_metadata:

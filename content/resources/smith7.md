@@ -3,7 +3,7 @@ content_type: resource
 description: The new corridors and spaces react and interact with the existing corridors,
   creating tension within their regularity. Spaces are found that wouldn't have existed
   without the tension.
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/41a54a57344384cdf544eaf18d3785b8_smith7.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/41a54a57344384cdf544eaf18d3785b8_smith7.jpg
 file_size: 46097
 file_type: image/jpeg
 image_metadata:

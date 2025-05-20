@@ -2,7 +2,7 @@
 content_type: resource
 description: An installation dealing with light as a material, and as a space-maker.
   Note the strings that tell the viewer how the sunlight moves in the space.
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/c0c6cb84105f997654ac089db4f757db_helinski1.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/c0c6cb84105f997654ac089db4f757db_helinski1.jpg
 file_size: 27647
 file_type: image/jpeg
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: An intense investigation of spaces and shapes, and an early attempt at
   the formation of a building through programmatic elements. Light and materials start
   to define spaces.
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/a7bab49f1495e8ad9e1682f306b58ae7_helinski7.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/a7bab49f1495e8ad9e1682f306b58ae7_helinski7.jpg
 file_size: 35399
 file_type: image/jpeg
 image_metadata:
