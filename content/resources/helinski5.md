@@ -2,7 +2,7 @@
 content_type: resource
 description: Glass and concrete in dynamic tension. The apparently fragile supports
   the heavy, and once again invisible forces are revealed.
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/54cf4d865ee3a4d30956b562d077fd86_helinski5.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/54cf4d865ee3a4d30956b562d077fd86_helinski5.jpg
 file_size: 34845
 file_type: image/jpeg
 image_metadata:
