@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project work done
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/d4377b02e334f9a7acaf6573394bac3f_joedahmen.pdf
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/d4377b02e334f9a7acaf6573394bac3f_joedahmen.pdf
 file_size: 154665
 file_type: application/pdf
 learning_resource_types: []

@@ -3,7 +3,7 @@ content_type: resource
 description: The relationship of glass and concrete, and how the two materials can
   relate and coexist in collision. These models explore the limits of these materials'
   nature.
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/3e1b84055fa0de3718d5e4e631460702_helinski3.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/3e1b84055fa0de3718d5e4e631460702_helinski3.jpg
 file_size: 37642
 file_type: image/jpeg
 image_metadata:

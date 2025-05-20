@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Material juxtaposition: Plaster fills metal, and the two are changed.
   Both spatially and materially, this union creates something new from two known types.'
-file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/31d5e6e2c987e89667e14d05e8d514a3_smith4.jpg
+file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/31d5e6e2c987e89667e14d05e8d514a3_smith4.jpg
 file_size: 35566
 file_type: image/jpeg
 image_metadata:
