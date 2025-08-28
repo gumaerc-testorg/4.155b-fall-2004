@@ -2,7 +2,7 @@
 content_type: resource
 description: A diagram of forces and movements along the site, showing the boundary
   conditions of land versus water.
-file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/513be3f3803be9b6685ed4a43bf4a0e7_dahmen3.jpg
+file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/513be3f3803be9b6685ed4a43bf4a0e7_dahmen3.jpg
 file_size: 31180
 file_type: image/jpeg
 image_metadata:
