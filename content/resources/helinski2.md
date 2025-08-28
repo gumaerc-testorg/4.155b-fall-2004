@@ -2,7 +2,7 @@
 content_type: resource
 description: Material molded by space, and molding space simultaneously. This model
   plays with the conditions of molding and the nature of concrete.
-file: /courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/1c96e7ca8c9d32d20dfeccad0c01ecfb_helinski2.jpg
+file: /ol-ocw-studio-app/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/1c96e7ca8c9d32d20dfeccad0c01ecfb_helinski2.jpg
 file_size: 36397
 file_type: image/jpeg
 image_metadata:
